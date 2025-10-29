@@ -18,7 +18,13 @@ Screenshots:
 
 ![screenshot](<Screenshot 2025-10-29 133105.png>)
 
+Genrated Pdf And csv
+[CSV](users_2025-10-29_08-55-39.csv) 
+
+[PDF](users_2025-10-29_08-55-43.pdf)
+
 Tech Stack
+
 
 Laravel (latest stable version)
 
@@ -50,7 +56,6 @@ Run the following commands:
 
 composer install
 php artisan key:generate
-php artisan storage:link
 php artisan serve
 
 
